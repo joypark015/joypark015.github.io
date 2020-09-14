@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Joy's IO Page</title>
+    <meta charset="utf-8">
+  </head>
+  <body
+    <h1>Welcome to my GitHub.io page</h1>
+    <p>This page is currently under construction, but feel free to browse around!</p>
+  </body>
+</html>
+
 ## Welcome to My GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/joypark015/joypark015.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
